@@ -4,7 +4,7 @@ public class Testing_Git {
 
 	public static void main(String[] args) {
 		
-		//언녕 내 새상
+		//안녕 내 새상
 		for(int i = 0; i < 10; i ++) {
 			System.out.println("Hello, My world!!");
 		}
