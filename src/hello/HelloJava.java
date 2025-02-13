@@ -13,6 +13,7 @@ public class HelloJava {
 		// 문장을 완성할 때는 무조건 꼭 ;(세미콜론)으로 마무리 하기
 		System.out.println("Hello, World!!");
 		
+		//Git Testing
 	}
 
 }
